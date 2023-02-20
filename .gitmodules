@@ -4,3 +4,39 @@
 [submodule "fdf"]
 	path = fdf
 	url = https://github.com/Two-Jay/42_fdf.git
+[submodule "minitalk"]
+	path = minitalk
+	url = https://github.com/Two-Jay/minitalk.git
+[submodule "minishell"]
+	path = minishell
+	url = https://github.com/Two-Jay/42_minishell.git
+[submodule "webserv"]
+	path = webserv
+	url = https://github.com/AYoungSn/webServ_42.git
+[submodule "ft_containers"]
+	path = ft_containers
+	url = https://github.com/Two-Jay/ft_containers.git
+[submodule "cub3d"]
+	path = cub3d
+	url = https://github.com/Two-Jay/42_cub3d.git
+[submodule "inception"]
+	path = inception
+	url = https://github.com/Two-Jay/inception.git
+[submodule "cpp_modules"]
+	path = cpp_modules
+	url = https://github.com/Two-Jay/cpp_modules.git
+[submodule "philosopher"]
+	path = philosopher
+	url = https://github.com/Two-Jay/philosophers.git
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/Two-Jay/push_swap.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/Two-Jay/42_gnl.git
+[submodule "transcendence"]
+	path = transcendence
+	url = https://github.com/Two-Jay/transcendence.git
+[submodule "printf"]
+	path = printf
+	url = https://github.com/Two-Jay/42_printf.git
