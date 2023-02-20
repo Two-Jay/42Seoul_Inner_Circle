@@ -1,0 +1,6 @@
+[submodule "libft"]
+	path = libft
+	url = https://github.com/Two-Jay/42_libft
+[submodule "fdf"]
+	path = fdf
+	url = https://github.com/Two-Jay/42_fdf.git
