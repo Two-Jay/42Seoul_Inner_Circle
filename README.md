@@ -5,6 +5,14 @@
 
 This is a repository listing the projects I've worked on at the inner circle in 42Seoul. For questions about learning and code, please email to djeeee1272@gmail.com.
 
+to build and use the projects, please check the Makefile.
+
+to clone this repository, please use below command :
+
+```
+git clone --recursive https://github.com/Two-Jay/42Seoul_Inner_Circle.git
+```
+
 ***
 
 | Circle | Project                                | Language | summary                                                              | Date of Completion |
